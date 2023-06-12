@@ -16,12 +16,13 @@
   </div>  
   </br>
   </br>
+   <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-HYEON&layout=compact&theme=tokyonight"/>
+  </div>
+  </br>
+  </br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=I-HYEON&show_icons=true&theme=tokyonight"/>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-HYEON&layout=compact&theme=tokyonight"/>
-  </div>
-  
 </div>
 
