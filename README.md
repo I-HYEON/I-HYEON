@@ -16,6 +16,6 @@
   </div>  
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=I-HYEON&show_icons=truetheme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=I-HYEON&show_icons=true&theme=tokyonight"/>
 </div>
 
