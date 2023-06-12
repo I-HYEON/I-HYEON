@@ -15,3 +15,4 @@
     <a href="https://www.instagram.com/ssafycial_9reat/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafycial_9reat/"/></a>
   </div>
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=I-HYEON&show_icons=true"/>
