@@ -14,4 +14,4 @@
             <a href="https://spacegg.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF6000?style=flat-square&logo=Tistory&logoColor=white&link=https://spacegg.tistory.com/"/></a>
             <a href="https://www.instagram.com/ssafycial_9reat/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafycial_9reat/"/></a>
         </div>
-</>
+</p>
