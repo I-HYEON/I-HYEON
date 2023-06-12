@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm I-HYEON SEO</h1>
+  <h2>Hello, I'm I-HYEON SEO</h2>
   <div>
     <h4>🛠️Once I used🛠️</h4>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
