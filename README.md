@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=300&section=header&text=I'm Seo I-Hyeon&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=300&section=header&text=I'm Seo I-Hyeon&fontSize=90&animation=fadeIn"/>
   </br>
   <div>
     <h4>🛠️Tech stack🛠️</h4>
