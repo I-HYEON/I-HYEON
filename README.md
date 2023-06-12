@@ -26,10 +26,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=I-HYEON&show_icons=true&theme=tokyonight"/>
   </div>
 </div>
-
-
-<style>
- div {
-  color: red;
-  }
-</style>
