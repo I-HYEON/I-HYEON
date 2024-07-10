@@ -5,7 +5,7 @@
     <h4>🛠️Tech stack🛠️</h4>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" width="85" height="25"/>
     <img src="https://img.shields.io/badge/JAVA-ED8106?style=flat-square&logo=spring&logoColor=black" width="70" height="25"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="100" height="25"/></br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="110" height="25"/></br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white" width="110" height="25"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" width="85" height="25"/></br>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white" width="85" height="25"/>
