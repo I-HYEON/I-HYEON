@@ -20,17 +20,13 @@
   </div>  
   </br>
   <div>
-    <h4>✨Solved.ac Profile✨</h4>   
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacegg13"/>
-  </div>
-  </br>
-  <div>
-    <h4>🎨GitHub Stats🎨</h4>   
+    <h4>⚙Github Stats⚙</h4>   
     <img src="https://github-readme-stats.vercel.app/api?username=I-HYEON&show_icons=true&theme=tokyonight"/>
   </div>
   </br>
-  <div>
-    <h4>⌨Languages⌨</h4>   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-HYEON&layout=compact&theme=tokyonight"/>
-  </div>
+  <h4>📚BOJ solved.ac & Used language📚</h4>   
+  <span>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spacegg13"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-HYEON&layout=compact&theme=tokyonight"/>
+  </span>
 </div>
