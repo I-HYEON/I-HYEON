@@ -15,7 +15,8 @@
   </br>
   <div>
     <h4>🙂Contact🙂</h4>   
-    <a href="https://voltaic-rocket-d1c.notion.site/Web-Backend-efc10003ac344ea692e226f9c855cb2b?pvs=4"><img src="https://img.shields.io/badge/portfolio-f2f2f2?style=flat-square&logo=Notion&logoColor=black&link=https://spacegg.tistory.com/" width="90" height="25"/></a>
+    <a href="https://voltaic-rocket-d1c.notion.site/Web-Backend-efc10003ac344ea692e226f9c855cb2b?pvs=4"><img src="https://img.shields.io/badge/portfolio-f2f2f2?style=flat-square&logo=Notion&logoColor=black&link=https://voltaic-rocket-d1c.notion.site/Web-Backend-efc10003ac344ea692e226f9c855cb2b?pvs=4" width="90" height="25"/></a>
+    <a href="https://velog.io/@spacegg/posts"><img src="https://img.shields.io/badge/velog-00665E?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@spacegg/posts" width="75" height="25"/></a>
     <a href="https://www.instagram.com/ssafycial_9reat/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafycial_9reat/" width="95" height="25"/></a>
   </div>  
   </br>
